@@ -17,3 +17,14 @@
 [![git blog Badge](http://img.shields.io/badge/Git%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://songhees.github.io/)
 
 </h3>
+
+<br/>
+
+<h3 align="center">projectList</h3>
+
+<h5 align="center" >  
+
+ [nadri (Railway Reservation service)](https://github.com/songhees/nadri)
+
+ [shoppingMall (User service)](https://github.com/songhees/semi-project)
+</h5>
