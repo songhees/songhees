@@ -6,7 +6,7 @@
 [![java Badge](http://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](#) [![SpringBoot Badge](http://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/songhees/documents/tree/main/spring) [![Oracle Badge](http://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](#)  
 
 [![HTML Badge](http://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/songhees/documents/tree/main/front/html) [![css Badge](http://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/songhees/documents/tree/main/front/css) [![javascript Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](#) [![jQuery Badge](http://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)](#) 
-[![vue Badge](http://img.shields.io/badge/vue-4FC08DD?style=flat-square&logo=vue.js&logoColor=white)](#)</h3>
+[![vue Badge](http://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#)</h3>
 
 
 </br>
