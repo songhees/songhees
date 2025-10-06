@@ -11,12 +11,6 @@
 
 </br>
 
-<h3 align="center">info</h3>
-
-<h3 align="center"> 
-
-[![git blog Badge](http://img.shields.io/badge/Git%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://songhees.github.io/)
-
 </h3>
 
 <br/>
