@@ -21,5 +21,4 @@
 
  [nadri (Railway Reservation service)](https://github.com/songhees/nadri)
 
- [shoppingMall (User service)](https://github.com/songhees/semi-project)
 </h5>
