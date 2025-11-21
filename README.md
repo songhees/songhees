@@ -22,3 +22,11 @@
  [nadri (Railway Reservation service)](https://github.com/songhees/nadri)
 
 </h5>
+
+<h3 align="center">blog</h3>
+
+<h5 align="center" >  
+
+ [공부 블로그](https://songhees.tistory.com/)
+
+</h5>
